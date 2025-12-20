@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: docs/总览.md
-#    - theme: alt
-#      text: API Examples
-#      link: /api-examples
+      link: docs/overview
+    - theme: alt
+      text: 社区文档
+      link: docs/community/standard
 
 features:
   - title: 特色物品

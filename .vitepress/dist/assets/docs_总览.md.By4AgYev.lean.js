@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,ah as o}from"./chunks/framework.BJEpWshW.js";const m=JSON.parse('{"title":"总览","description":"","frontmatter":{},"headers":[],"relativePath":"docs/总览.md","filePath":"docs/总览.md"}'),s={name:"docs/总览.md"};function l(n,a,h,i,d,c){return t(),r("div",null,[...a[0]||(a[0]=[o("",5)])])}const f=e(s,[["render",l]]);export{m as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BJEpWshW.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/合成文档/首页.md","filePath":"docs/合成文档/首页.md"}'),o={name:"docs/合成文档/首页.md"};function s(c,r,n,d,_,p){return a(),t("div")}const f=e(o,[["render",s]]);export{m as __pageData,f as default};

@@ -8,30 +8,30 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '快速开始', link: 'docs/总览.md' }
+      { text: '快速开始', link: 'docs/overview.md' }
     ],
 
     sidebar: [
       {
         text: '合成文档',
         items: [
-          { text: '武器', link: 'docs/合成文档/武器' },
-          { text: '装备', link: 'docs/合成文档/装备' },
-          { text: '材料', link: 'docs/合成文档/材料' },
-          { text: '工具', link: 'docs/合成文档/工具' },
-          { text: '食物', link: 'docs/合成文档/食物' },
+          { text: '武器', link: 'docs/craft/weapons' },
+          { text: '装备', link: 'docs/craft/equipment' },
+          { text: '材料', link: 'docs/craft/materials' },
+          { text: '工具', link: 'docs/craft/tools' },
+          { text: '食物', link: 'docs/craft/food' },
         ]
       },
       {
         text: '其他',
         items: [
-          { text: '更新日志', link: 'docs/其他文档/更新日志' },
+          { text: '更新日志', link: 'docs/other/changelog' },
         ]
       },
       {
         text: '社区文档',
         items: [
-          { text: '编写规范', link: 'docs/社区文档/编写规范' },
+          { text: '编写规范', link: 'docs/community/standard' },
         ]
       }
     ],

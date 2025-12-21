@@ -20,7 +20,8 @@ export default defineConfig({
           { text: '材料', link: 'docs/craft/materials' },
           { text: '工具', link: 'docs/craft/tools' },
           { text: '食物', link: 'docs/craft/food' },
-          { text: '消耗物', link: 'docs/craft/consume' }
+          { text: '消耗物', link: 'docs/craft/consume' },
+          { text: '药水', link: 'docs/craft/potion' },
         ]
       },
       {
